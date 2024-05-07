@@ -7,9 +7,9 @@ Here, we will go through the steps required for setting up the project and some 
 
 **Hi!**
 
-(https://github.com/jb6765/Object-detection-system/blob/main/real_time_output_gif/output.gif.mp4)
+![alt text](https://github.com/jb6765/Object-detection-system/blob/main/real_time_output_gif/output.gif.mp4)
 
-https://github.com/jb6765/Object-detection-system/blob/main/real_time_output_gif/output.png
+![alt text](https://github.com/jb6765/Object-detection-system/blob/main/real_time_output_gif/output.png)
 
 ### How to run this code?
 
