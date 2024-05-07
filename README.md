@@ -7,7 +7,7 @@ Here, we will go through the steps required for setting up the project and some 
 
 **Hi!**
 
-https://1drv.ms/v/c/0f48da752df53150/ET4XlVwQ7nZJicb6jrpj7xMBuQ2_gfkkfWsIJGytf_8NlQ?e=5krXKz
+[https://1drv.ms/v/c/0f48da752df53150/ET4XlVwQ7nZJicb6jrpj7xMBuQ2_gfkkfWsIJGytf_8NlQ?e=5krXKz](https://github.com/jb6765/Object-detection-system/blob/main/real_time_output_gif/output.gif.mp4)
 
 ### How to run this code?
 
