@@ -7,7 +7,7 @@ Here, we will go through the steps required for setting up the project and some 
 
 **Hi!**
 
-![alt text](https://github.com/jb6765/Object-detection-system/blob/main/real_time_output_gif/output.gif.mp4)
+(https://github.com/jb6765/Object-detection-system/blob/main/real_time_output_gif/output.gif.mp4)
 
 ![alt text](https://github.com/jb6765/Object-detection-system/blob/main/real_time_output_gif/output.png)
 
@@ -26,14 +26,11 @@ cd ~/Desktop/opencv_project
 git clone https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV.git
 cd Real-Time-Object-Detection-With-OpenCV
 ```
-**Step 3:** Install all the necessary libraries. I used MacOS for this project. These are some of the libraries I had to install:
+**Step 3:** Install all the necessary libraries.These are some of the libraries I had to install:
 
 ```
-brew install opencv
 pip install opencv-python
 pip install opencv-contrib-python
-pip install opencv-python-headless
-pip install opencv-contrib-python-headless
 pip install matplotlib
 pip install imutils
 ```
